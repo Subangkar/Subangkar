@@ -85,7 +85,7 @@
 
 ---
 
-<img align="left" height="250px" width="450px" alt="Subangkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subangkar&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" height="250px" width="450px" alt="Subangkar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Subangkar&show_icons=true&hide_border=true&theme=radical&count_private=true" />
 <!--
 <img align="left" height="250px" width="400px" alt="Topmost Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subangkar&layout=compact&hide_border=true&theme=radical" />
 -->
