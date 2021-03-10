@@ -1,6 +1,6 @@
 ### Hi there, I'm Subangkar Karmaker Shanto 👋
 
-**I'm currently a final year CS Undergrad studying in Bangladesh University of Engineering & Technology (BUET)**
+**I'm currently a CS graduate from Bangladesh University of Engineering & Technology (BUET)**
 - ⚡  I'm a Backend Developer.
 - ⚡  I'm interested in Deep Learning
 - 👯 Fun fact: I love to watch movies, TV Serials and Travel
