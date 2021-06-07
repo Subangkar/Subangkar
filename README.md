@@ -21,30 +21,31 @@
 ---
 
 ### Programming Languages:
-[<img align="left" alt="Python" width="50px" height="35px" src="https://i.ibb.co/PFRJPD6/image.png" />](https://www.python.org/)
+<!-- [<img align="left" alt="Python" width="50px" height="35px" src="https://i.ibb.co/PFRJPD6/image.png" />](https://www.python.org/)
 [<img align="left" alt="C++" width="50px" height="35px" src="https://i.ibb.co/7G84R00/image.png" />](http://www.cplusplus.com/)
-[<img align="left" alt="C" width="50px" height="35px" src="https://i.ibb.co/Vm11S3N/image.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="C" width="50px" height="35px" src="https://i.ibb.co/fNb1J47/image.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img align="left" alt="Java" width="50px" height="35px" src="https://i.ibb.co/8dzYPBS/image.png" />](https://www.java.com/)
 [<img align="left" alt="JavaScript" width="50px" height="35px" src="https://i.ibb.co/ts54MPX/image.png" />](https://www.javascript.com/)
 [<img align="left" alt="Bash" width="50px" height="35px" src="https://i.ibb.co/Z1JcmYm/image.png" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Tcl" width="50px" height="35px" src="https://www.tcl.tk/images/pwrdLogo200.gif" />](https://www.tcl.tk/)
 [<img align="left" alt="Matlab" width="50px" height="35px" src="https://i.ibb.co/K5sz46B/image.png" />](https://www.mathworks.com/products/matlab.html)
-[<img align="left" alt="Assembly" width="50px" height="35px" src="https://i.ibb.co/9wythsn/image.png" />](https://jbwyatt.com/253/emu/asm_tutorial_01.html)
+[<img align="left" alt="Assembly" width="50px" height="35px" src="https://i.ibb.co/9wythsn/image.png" />](https://jbwyatt.com/253/emu/asm_tutorial_01.html) -->
+`Python` `C++` `C` `Java` `JavaScript` `Bash` `Tcl` `Matlab` `8086 Assembly`
 <br />
     
 ### Frameworks & Tools:
 [<img align="left" alt="Django" width="50px" height="35px" src="https://i.ibb.co/CWTdZFx/image.png" />](https://www.djangoproject.com/)
 [<img align="left" alt="Django REST Framework" width="50px" height="35px" src="https://www.django-rest-framework.org/img/logo.png" />](https://www.django-rest-framework.org/)
-[<img align="left" alt="SQL" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" />](https://en.wikipedia.org/wiki/SQL)
+[<img align="left" alt="SQL" width="50px" height="35px" src="https://i.ibb.co/C0Jb4HH/image.png" />](https://en.wikipedia.org/wiki/SQL)
 [<img align="left" alt="Oracle Database" width="50px" height="35px" height="26px" src="https://i.ibb.co/wdRd4Gp/image.png" />](https://www.oracle.com/database/technologies/)
-[<img align="left" alt="PostgreSQL" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/postgresql/postgresql.png?raw=true" />](https://www.postgresql.org/)
-[<img align="left" alt="MySQL" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png?raw=true" />](https://www.mysql.com/)
-[<img align="left" alt="JavaFx" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/javafx/javafx.png?raw=true" />](https://www.oracle.com/java/technologies/javase/javafx-overview.html)
+[<img align="left" alt="PostgreSQL" width="50px" height="35px" src="https://i.ibb.co/8mP1fH1/image.png" />](https://www.postgresql.org/)
+[<img align="left" alt="MySQL" width="50px" height="35px" src="https://i.ibb.co/fQxKvWs/image.png" />](https://www.mysql.com/)
+[<img align="left" alt="JavaFx" width="50px" height="35px" src="https://i.ibb.co/nBCsn4c/image.png" />](https://www.oracle.com/java/technologies/javase/javafx-overview.html)
 <br />
 
-[<img align="left" alt="Keras" width="50px" height="35px" src="https://keras.io/img/logo.png" />](https://keras.io/)
-[<img align="left" alt="PyTorch" width="50px" height="35px" src="https://github.com/pytorch/pytorch/raw/master/docs/source/_static/img/pytorch-logo-dark.png" />](https://pytorch.org/)
-[<img align="left" alt="Scikit Learn" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/scikit-learn/scikit-learn.png?raw=true" />](https://scikit-learn.org/)
+[<img align="left" alt="Keras" width="50px" height="35px" src="https://i.ibb.co/fGjD3Ns/image.png" />](https://keras.io/)
+[<img align="left" alt="PyTorch" width="50px" height="35px" src="https://i.ibb.co/mFzwkV2/image.png" />](https://pytorch.org/)
+[<img align="left" alt="Scikit Learn" width="50px" height="35px" src="https://i.ibb.co/HhxPLyH/image.png" />](https://scikit-learn.org/)
 [<img align="left" alt="Corda" width="50px" height="35px" src="https://i.ibb.co/30MHCtn/image.png" />](https://www.corda.net/)
 <br />
 
@@ -52,9 +53,9 @@
 [<img align="left" alt="Atmega32 Microcontroller interfacing" width="50px" height="35px" src="https://i.ibb.co/ZKLWdJH/image.png" />](https://www.microchip.com/wwwproducts/ATmega32)
 <br />
 
-[<img align="left" alt="Git" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/git/git.png?raw=true" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/github/github.png?raw=true" />](https://github.com/)
-[<img align="left" alt="Docker" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" />](http://docker.io/)
+[<img align="left" alt="Git" width="50px" height="35px" src="https://i.ibb.co/RpqgDfp/image.png" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="50px" height="35px" src="https://i.ibb.co/h26m6bp/image.png" />](https://github.com/)
+[<img align="left" alt="Docker" width="50px" height="35px" src="https://i.ibb.co/rxvmJ9X/image.png" />](http://docker.io/)
 <br />
 
 [<img align="left" alt="PyCharm" width="50px" height="35px" src="https://i.ibb.co/whg19gH/image.png" />](https://www.jetbrains.com/pycharm/)
@@ -65,12 +66,12 @@
 [<img align="left" alt="Visual Studio" width="50px" height="35px" src="https://i.ibb.co/nc0QqHt/image.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="Tizen Studio" width="50px" height="35px" src="https://i.ibb.co/xDtQpH3/image.png" />](https://developer.tizen.org/development/tizen-studio/overview)
 [<img align="left" alt="Atmel Studio" width="50px" height="35px" src="https://i.ibb.co/RNTkTX3/image.png" />](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
-[<img align="left" alt="Visual Studio Code" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" />](https://code.visualstudio.com/)
-[<img align="left" alt="Atom" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/atom/atom.png?raw=true" />](https://atom.io/)
-[<img align="left" alt="Jupyter Notebook" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png?raw=true" />](https://jupyter.org/)
+[<img align="left" alt="Visual Studio Code" width="50px" height="35px" src="https://i.ibb.co/Wxt9zvg/image.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="Atom" width="50px" height="35px" src="https://i.ibb.co/j86VLn6/image.png" />](https://atom.io/)
+[<img align="left" alt="Jupyter Notebook" width="50px" height="35px" src="https://i.ibb.co/GMLxXcg/image.png" />](https://jupyter.org/)
 <br />
 
-[<img align="left" alt="LaTex" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/latex/latex.png?raw=true" />](https://www.latex-project.org/)
+[<img align="left" alt="LaTex" width="50px" height="35px" src="https://i.ibb.co/Cn5G0MZ/image.png" />](https://www.latex-project.org/)
 [<img align="left" alt="Swagger" width="50px" height="35px" src="https://i.ibb.co/Jr1jsfR/image.png" />](https://swagger.io/)
 <br />
 
