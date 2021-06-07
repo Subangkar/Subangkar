@@ -21,19 +21,19 @@
 ---
 
 ### Programming Languages:
-[<img align="left" alt="Python" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/python/python.png?raw=true" />](https://www.python.org/)
-[<img align="left" alt="C++" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png?raw=true" />](http://www.cplusplus.com/)
-[<img align="left" alt="C" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/c/c.png?raw=true" />](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img align="left" alt="Java" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/java/java.png?raw=true" />](https://www.java.com/)
-[<img align="left" alt="JavaScript" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/javascript/javascript.png?raw=true" />](https://www.javascript.com/)
-[<img align="left" alt="Bash" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/bash/bash.png?raw=true" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Python" width="50px" height="35px" src="https://i.ibb.co/PFRJPD6/image.png" />](https://www.python.org/)
+[<img align="left" alt="C++" width="50px" height="35px" src="https://i.ibb.co/7G84R00/image.png" />](http://www.cplusplus.com/)
+[<img align="left" alt="C" width="50px" height="35px" src="https://i.ibb.co/Vm11S3N/image.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="Java" width="50px" height="35px" src="https://i.ibb.co/8dzYPBS/image.png" />](https://www.java.com/)
+[<img align="left" alt="JavaScript" width="50px" height="35px" src="https://i.ibb.co/ts54MPX/image.png" />](https://www.javascript.com/)
+[<img align="left" alt="Bash" width="50px" height="35px" src="https://i.ibb.co/Z1JcmYm/image.png" />](https://www.gnu.org/software/bash/)
 [<img align="left" alt="Tcl" width="50px" height="35px" src="https://www.tcl.tk/images/pwrdLogo200.gif" />](https://www.tcl.tk/)
-[<img align="left" alt="Matlab" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/matlab/matlab.png?raw=true" />](https://www.mathworks.com/products/matlab.html)
+[<img align="left" alt="Matlab" width="50px" height="35px" src="https://i.ibb.co/K5sz46B/image.png" />](https://www.mathworks.com/products/matlab.html)
 [<img align="left" alt="Assembly" width="50px" height="35px" src="https://i.ibb.co/9wythsn/image.png" />](https://jbwyatt.com/253/emu/asm_tutorial_01.html)
 <br />
     
 ### Frameworks & Tools:
-[<img align="left" alt="Django" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/django/django.png?raw=true" />](https://www.djangoproject.com/)
+[<img align="left" alt="Django" width="50px" height="35px" src="https://i.ibb.co/CWTdZFx/image.png" />](https://www.djangoproject.com/)
 [<img align="left" alt="Django REST Framework" width="50px" height="35px" src="https://www.django-rest-framework.org/img/logo.png" />](https://www.django-rest-framework.org/)
 [<img align="left" alt="SQL" width="50px" height="35px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png?raw=true" />](https://en.wikipedia.org/wiki/SQL)
 [<img align="left" alt="Oracle Database" width="50px" height="35px" height="26px" src="https://i.ibb.co/wdRd4Gp/image.png" />](https://www.oracle.com/database/technologies/)
