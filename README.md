@@ -80,6 +80,7 @@
 ### 📕 Projects
 - [FoodSquare](https://github.com/Subangkar/Foodsquare-Web-App): A Django web-app for an online restaurant hub
 - [Samsung Gear Fit 2 Pro PPG Logger](https://github.com/Subangkar/Tizen-Sensor-Raw-Data-Saving-Service): Tizen native [app](https://github.com/Subangkar/Gear-Fit-2-Sensor-Raw-Data-Sync) & [service](https://github.com/Subangkar/Tizen-Sensor-Raw-Data-Saving-Service) to collect raw sensor data
+- [Image Captioning](https://github.com/Subangkar/Image-Captioning-Attention-PyTorch): Attention based sequential deep learning model to generate single line caption given an image
 - [Real Time Audio to Frequency Spectrum Transformation on Atmega32 Microcontroller](https://github.com/Subangkar/Real-Time-Audio-to-Frequency-Spectrum-Transformation-on-Atmega32)
 - [C Compiler](https://github.com/Subangkar/Compiler-CSE-310-BUET): A very simple subset of C Compiler
 - [DX-Ball Game](https://github.com/Subangkar/DX-Ball-iGraphics-Project-BUET)
