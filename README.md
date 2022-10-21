@@ -1,21 +1,21 @@
 ### Hi there, I'm Subangkar Karmaker Shanto 👋
 
-**I'm currently a CS graduate from Bangladesh University of Engineering & Technology (BUET)**
-- ⚡  I'm a Backend Developer.
-- ⚡  I'm interested in Deep Learning
+**I am working as a Lecturer at Dept. of CSE, United International University (UIU). I have received my CS graduation degree from Bangladesh University of Engineering & Technology (BUET)**
+- ⚡  I'm interested in research topics like Machine Learning, Deep Learning, Privacy, Ubiquitous ComputingI'm interested in research topics like Machine Learning, Deep Learning, Privacy, Ubiquitous Computing
+- ⚡  I also like to work in Backend Development
 - 👯 Fun fact: I love to watch movies, TV Serials and Travel
-- 🥅 Fun Goals: Learn to Cook, Travel many countries around the world
+- 🥅 Goals: Travel many countries around the world
 <!--- - 🌱 🤣
 --->
 
-Website: https://subangkar.github.io/
+Personal Website: https://subangkar.github.io/
 
 ### Connect with me:
+[<img align="left" alt="Subangkar" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Subangkar | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Subangkar | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Subangkar | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!---
-[<img align="left" alt="Subangkar" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Subangkar | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
 <br />
@@ -36,31 +36,35 @@ Website: https://subangkar.github.io/
 <br />
     
 ### Frameworks & Tools:
-[<img align="left" alt="Django" width="50px" height="35px" src="https://i.ibb.co/CWTdZFx/image.png" />](https://www.djangoproject.com/)
+<!-- [<img align="left" alt="Django" width="50px" height="35px" src="https://i.ibb.co/CWTdZFx/image.png" />](https://www.djangoproject.com/)
 [<img align="left" alt="Django REST Framework" width="50px" height="35px" src="https://www.django-rest-framework.org/img/logo.png" />](https://www.django-rest-framework.org/)
 [<img align="left" alt="SQL" width="50px" height="35px" src="https://i.ibb.co/C0Jb4HH/image.png" />](https://en.wikipedia.org/wiki/SQL)
 [<img align="left" alt="Oracle Database" width="50px" height="35px" height="26px" src="https://i.ibb.co/wdRd4Gp/image.png" />](https://www.oracle.com/database/technologies/)
 [<img align="left" alt="PostgreSQL" width="50px" height="35px" src="https://i.ibb.co/8mP1fH1/image.png" />](https://www.postgresql.org/)
 [<img align="left" alt="MySQL" width="50px" height="35px" src="https://i.ibb.co/fQxKvWs/image.png" />](https://www.mysql.com/)
-[<img align="left" alt="JavaFx" width="50px" height="35px" src="https://i.ibb.co/nBCsn4c/image.png" />](https://www.oracle.com/java/technologies/javase/javafx-overview.html)
+[<img align="left" alt="JavaFx" width="50px" height="35px" src="https://i.ibb.co/nBCsn4c/image.png" />](https://www.oracle.com/java/technologies/javase/javafx-overview.html) -->
+`Django` `Django REST Framework` `SQL` `Oracle Database` `PostgreSQL` `MySQL` `JavaFx`
 <br />
 
-[<img align="left" alt="Keras" width="50px" height="35px" src="https://i.ibb.co/fGjD3Ns/image.png" />](https://keras.io/)
+<!-- [<img align="left" alt="Keras" width="50px" height="35px" src="https://i.ibb.co/fGjD3Ns/image.png" />](https://keras.io/)
 [<img align="left" alt="PyTorch" width="50px" height="35px" src="https://i.ibb.co/mFzwkV2/image.png" />](https://pytorch.org/)
 [<img align="left" alt="Scikit Learn" width="50px" height="35px" src="https://i.ibb.co/HhxPLyH/image.png" />](https://scikit-learn.org/)
-[<img align="left" alt="Corda" width="50px" height="35px" src="https://i.ibb.co/30MHCtn/image.png" />](https://www.corda.net/)
+[<img align="left" alt="Corda" width="50px" height="35px" src="https://i.ibb.co/30MHCtn/image.png" />](https://www.corda.net/) -->
+`Keras` `PyTorch` `Scikit Learn` `Corda`
 <br />
 
-[<img align="left" alt="Tizen App Development" width="50px" height="35px" src="https://i.ibb.co/FDGfMqR/image.png" />](https://developer.tizen.org/)
-[<img align="left" alt="Atmega32 Microcontroller interfacing" width="50px" height="35px" src="https://i.ibb.co/ZKLWdJH/image.png" />](https://www.microchip.com/wwwproducts/ATmega32)
+<!-- [<img align="left" alt="Tizen App Development" width="50px" height="35px" src="https://i.ibb.co/FDGfMqR/image.png" />](https://developer.tizen.org/)
+[<img align="left" alt="Atmega32 Microcontroller interfacing" width="50px" height="35px" src="https://i.ibb.co/ZKLWdJH/image.png" />](https://www.microchip.com/wwwproducts/ATmega32) -->
+`Tizen App Development` `Atmega32 Microcontroller interfacing`
 <br />
 
-[<img align="left" alt="Git" width="50px" height="35px" src="https://i.ibb.co/RpqgDfp/image.png" />](https://git-scm.com/)
+<!-- [<img align="left" alt="Git" width="50px" height="35px" src="https://i.ibb.co/RpqgDfp/image.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="50px" height="35px" src="https://i.ibb.co/h26m6bp/image.png" />](https://github.com/)
-[<img align="left" alt="Docker" width="50px" height="35px" src="https://i.ibb.co/rxvmJ9X/image.png" />](http://docker.io/)
+[<img align="left" alt="Docker" width="50px" height="35px" src="https://i.ibb.co/rxvmJ9X/image.png" />](http://docker.io/) -->
+`Git` `GitHub` `Docker`
 <br />
 
-[<img align="left" alt="PyCharm" width="50px" height="35px" src="https://i.ibb.co/whg19gH/image.png" />](https://www.jetbrains.com/pycharm/)
+<!-- [<img align="left" alt="PyCharm" width="50px" height="35px" src="https://i.ibb.co/whg19gH/image.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="CLion" width="50px" height="35px" src="https://i.ibb.co/7p8C6VD/image.png" />](https://www.jetbrains.com/clion/)
 [<img align="left" alt="IntelliJ IDEA" width="50px" height="35px" src="https://i.ibb.co/jyM4454/image.png" />](https://www.jetbrains.com/idea/)
 [<img align="left" alt="WebStorm" width="50px" height="35px" src="https://i.ibb.co/j68JC7v/image.png" />](https://www.jetbrains.com/webstorm/)
@@ -70,11 +74,13 @@ Website: https://subangkar.github.io/
 [<img align="left" alt="Atmel Studio" width="50px" height="35px" src="https://i.ibb.co/RNTkTX3/image.png" />](https://www.microchip.com/mplab/avr-support/atmel-studio-7)
 [<img align="left" alt="Visual Studio Code" width="50px" height="35px" src="https://i.ibb.co/Wxt9zvg/image.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Atom" width="50px" height="35px" src="https://i.ibb.co/j86VLn6/image.png" />](https://atom.io/)
-[<img align="left" alt="Jupyter Notebook" width="50px" height="35px" src="https://i.ibb.co/GMLxXcg/image.png" />](https://jupyter.org/)
+[<img align="left" alt="Jupyter Notebook" width="50px" height="35px" src="https://i.ibb.co/GMLxXcg/image.png" />](https://jupyter.org/) -->
+`PyCharm` `CLion` `IntelliJ IDEA` `WebStorm` `Netbeans` `Visual Studio` `Tizen Studio` `Atmel Studio` `VS Code` `Atom` `Jupyter Notebook`
 <br />
 
-[<img align="left" alt="LaTex" width="50px" height="35px" src="https://i.ibb.co/Cn5G0MZ/image.png" />](https://www.latex-project.org/)
-[<img align="left" alt="Swagger" width="50px" height="35px" src="https://i.ibb.co/Jr1jsfR/image.png" />](https://swagger.io/)
+<!-- [<img align="left" alt="LaTex" width="50px" height="35px" src="https://i.ibb.co/Cn5G0MZ/image.png" />](https://www.latex-project.org/)
+[<img align="left" alt="Swagger" width="50px" height="35px" src="https://i.ibb.co/Jr1jsfR/image.png" />](https://swagger.io/) -->
+`LaTex` `Swagger`
 <br />
 
 ---
@@ -102,7 +108,7 @@ Thanks to https://github-readme-stats.vercel.app/ for stats themes.
 ![](https://komarev.com/ghpvc/?username=Subangkar)
 
 
-[website]: https://sites.google.com/Subangkar
+[website]: https://subangkar.github.io/
 [twitter]: https://twitter.com/Subangkar_Kr
 [youtube]: https://www.youtube.com/channel/UCZXpAN0rFHIsnGfvvAgRXgA
 [instagram]: https://www.instagram.com/subangkar.karmaker
