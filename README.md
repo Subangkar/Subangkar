@@ -1,7 +1,7 @@
 ### Hi there, I'm Subangkar Karmaker Shanto 👋
 
 **I am working as a Lecturer at Dept. of CSE, United International University (UIU). I have received my CS graduation degree from Bangladesh University of Engineering & Technology (BUET)**
-- ⚡  I'm interested in research topics like Machine Learning, Deep Learning, Privacy, Ubiquitous Computing
+- ⚡  I'm interested in research topics like Machine Learning, Deep Learning, Security, Ubiquitous Computing, Human Computer Interaction
 - ⚡  I also like to work in Backend Development
 - ⚡  I love coding, designing information system
 - 👯 Fun fact: I love to watch movies, TV Serials and Travel
