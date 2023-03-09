@@ -4,7 +4,7 @@
 - ⚡  I'm interested in research topics like Machine Learning, Deep Learning, Security, Ubiquitous Computing, Human Computer Interaction
 - ⚡  I also like to work in Backend Development
 - ⚡  I love coding, designing information system
-- 👯 Fun fact: I love to watch movies, TV Serials and Travel
+- 👯 Fun fact: I love to watch movies, TV Serials, Travel and Listen Music
 - 🥅 Goals: Travel many countries around the world
 <!--- - 🌱 🤣
 --->
