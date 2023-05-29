@@ -15,6 +15,7 @@ Personal Website: https://subangkar.github.io/
 [<img align="left" alt="Subangkar" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Subangkar | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Subangkar | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Subangkar | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Subangkar | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!---
 [<img align="left" alt="Subangkar | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -114,6 +115,7 @@ Thanks to https://github-readme-stats.vercel.app/ for stats themes.
 [youtube]: https://www.youtube.com/channel/UCZXpAN0rFHIsnGfvvAgRXgA
 [instagram]: https://www.instagram.com/subangkar.karmaker
 [linkedin]: https://www.linkedin.com/in/subangkar-karmaker
+[facebook]: https://www.facebook.com/karmaker.shanto
 
 
 <!--
