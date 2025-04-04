@@ -4,7 +4,8 @@
 - ⚡  I'm interested in research topics like Systems and Network Security, Machine Learning, Deep Learning, Ubiquitous Computing, Human Computer Interaction
 - ⚡  I also like to work in Backend Development
 - ⚡  I love coding, designing information system
-- 👯 Fun fact: I love to Travel and Listen Music
+- 🌱 I’m a great listener, so feel free to open up and share your stories—I’ll be all ears, listening with genuine interest!
+- 👯 Fun fact: I love to Travel and Listen to Music
 - 🥅 Goals: Travel many countries around the world
 <!--- - 🌱 🤣
 --->
@@ -12,11 +13,11 @@
 Personal Website: https://subangkar.github.io/
 
 ### Connect with me:
-[<img align="left" alt="Subangkar" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Subangkar | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Subangkar | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Subangkar | Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Subangkar | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Subangkar" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Subangkar | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Subangkar | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Subangkar | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Subangkar | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!---
 [<img align="left" alt="Subangkar | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 -->
