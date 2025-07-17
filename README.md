@@ -1,9 +1,9 @@
 ### Hi there, I'm Subangkar Karmaker Shanto 👋
 
-**I am a CS PhD Candidate at Purdue University. Earlier, I received my CS graduation from Bangladesh University of Engineering & Technology (BUET)**
-- ⚡  I'm interested in research topics like Systems and Network Security, Machine Learning, Deep Learning, Ubiquitous Computing, Human Computer Interaction
-- ⚡  I also like to work in Backend Development
+**I am a CS student at Purdue University. Earlier, I received my CS graduation from Bangladesh University of Engineering & Technology (BUET)**
 - ⚡  I love coding, designing information system
+- ⚡  I also like to work in Backend Development
+- ⚡  I'm interested in research topics like Systems and Network Security, Machine Learning, Deep Learning, Ubiquitous Computing
 - 🌱 I’m a great listener, so feel free to open up and share your stories—I’ll be all ears, listening with genuine interest!
 - 👯 Fun fact: I love to Travel and Listen to Music
 - 🥅 Goals: Travel many countries around the world
@@ -89,12 +89,26 @@ Personal Website: https://subangkar.github.io/
 ---
 
 ### 📕 Projects
+- [AI Generated Text Detection using Adversarial Learning](https://github.com/Subangkar/CS577-project): Experiment to improve the robustness of AI-generated text detection by using adversarial learning, inspired by the RADAR framework on the OpenWebText dataset
+- [5GLogExecuter](https://github.com/Subangkar/5GLogExecuter): 5G Fuzzing Testbed
+- [SDN Delay/Jitter Prediction via GNN](https://github.com/Subangkar/CS536-project): Reproduced RouteNet using GNNs to predict network delay and jitter for SDN, with custom dataset generation via ONOS, Mininet, and D-ITG
+- [SimSig](https://github.com/Subangkar/Simsig): Contrastive Learning based Patient-Similarity
+- [BayesBeat](https://github.com/Subangkar/BayesBeat): Bayesian Deep-Learning Pipeline for Robust Atrial Fibrillation Detection from PPG signal
 - [FoodSquare](https://github.com/Subangkar/Foodsquare-Web-App): A Django web-app for an online restaurant hub
 - [Samsung Gear Fit 2 Pro PPG Logger](https://github.com/Subangkar/Tizen-Sensor-Raw-Data-Saving-Service): Tizen native [app](https://github.com/Subangkar/Gear-Fit-2-Sensor-Raw-Data-Sync) & [service](https://github.com/Subangkar/Tizen-Sensor-Raw-Data-Saving-Service) to collect raw sensor data
 - [Image Captioning](https://github.com/Subangkar/Image-Captioning-Attention-PyTorch): Attention based sequential deep learning model to generate single line caption given an image
+- [ICMP-Ping-Spoofing](https://github.com/Subangkar/ICMP-Ping-Spoofing): Spoofing and sniffing using raw unix sockets
 - [Real Time Audio to Frequency Spectrum Transformation on Atmega32 Microcontroller](https://github.com/Subangkar/Real-Time-Audio-to-Frequency-Spectrum-Transformation-on-Atmega32)
 - [C Compiler](https://github.com/Subangkar/Compiler-CSE-310-BUET): A very simple subset of C Compiler
-- [DX-Ball Game](https://github.com/Subangkar/DX-Ball-iGraphics-Project-BUET)
+- [University Hall Management System](https://github.com/Mahim1997/hall_management): Desktop application managing dorm allocations, billing and inventory with a raw-SQL back-end, JavaFX based frontend and connecting both with oracle jdbc apis
+- [DX-Ball Game](https://github.com/Subangkar/DX-Ball-iGraphics-Project-BUET): DX-Ball game implemented in C++ using iGraphics(OpenGL)
+- [Digital-Clock](https://github.com/Subangkar/Digital-Clock-iGraphics): A simple 7 segment display lcd clock implemented in C using iGraphics(OpenGL)
+
+---
+
+### 🧩 Problem Solving
+- [Leetcode](https://leetcode.com/): https://github.com/Subangkar/Leetcode-Submissions
+- [LightOJ](https://lightoj.com/): https://github.com/Subangkar/LightOJ-Solved-Problems
 
 ---
 
