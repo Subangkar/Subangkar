@@ -25,7 +25,7 @@ Personal Website: https://subangkar.github.io/
   
 ---
 
-### Programming Languages:
+### Programming/Scripting Languages:
 <!-- [<img align="left" alt="Python" width="50px" height="35px" src="https://i.ibb.co/PFRJPD6/image.png" />](https://www.python.org/)
 [<img align="left" alt="C++" width="50px" height="35px" src="https://i.ibb.co/7G84R00/image.png" />](http://www.cplusplus.com/)
 [<img align="left" alt="C" width="50px" height="35px" src="https://i.ibb.co/fNb1J47/image.png" />](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -53,18 +53,14 @@ Personal Website: https://subangkar.github.io/
 [<img align="left" alt="PyTorch" width="50px" height="35px" src="https://i.ibb.co/mFzwkV2/image.png" />](https://pytorch.org/)
 [<img align="left" alt="Scikit Learn" width="50px" height="35px" src="https://i.ibb.co/HhxPLyH/image.png" />](https://scikit-learn.org/)
 [<img align="left" alt="Corda" width="50px" height="35px" src="https://i.ibb.co/30MHCtn/image.png" />](https://www.corda.net/) -->
-`Keras` `PyTorch` `Scikit Learn` `Corda`
-<br />
-
-<!-- [<img align="left" alt="Tizen App Development" width="50px" height="35px" src="https://i.ibb.co/FDGfMqR/image.png" />](https://developer.tizen.org/)
-[<img align="left" alt="Atmega32 Microcontroller interfacing" width="50px" height="35px" src="https://i.ibb.co/ZKLWdJH/image.png" />](https://www.microchip.com/wwwproducts/ATmega32) -->
-`Tizen App Development` `Atmega32 Microcontroller interfacing`
+`PyTorch` `Keras` `Scikit Learn` `Pandas`
+`Corda`
 <br />
 
 <!-- [<img align="left" alt="Git" width="50px" height="35px" src="https://i.ibb.co/RpqgDfp/image.png" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="50px" height="35px" src="https://i.ibb.co/h26m6bp/image.png" />](https://github.com/)
 [<img align="left" alt="Docker" width="50px" height="35px" src="https://i.ibb.co/rxvmJ9X/image.png" />](http://docker.io/) -->
-`Git` `GitHub` `Docker`
+`Git` `GitHub` `Docker` `Docker Hub`
 <br />
 
 <!-- [<img align="left" alt="PyCharm" width="50px" height="35px" src="https://i.ibb.co/whg19gH/image.png" />](https://www.jetbrains.com/pycharm/)
@@ -78,7 +74,13 @@ Personal Website: https://subangkar.github.io/
 [<img align="left" alt="Visual Studio Code" width="50px" height="35px" src="https://i.ibb.co/Wxt9zvg/image.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="Atom" width="50px" height="35px" src="https://i.ibb.co/j86VLn6/image.png" />](https://atom.io/)
 [<img align="left" alt="Jupyter Notebook" width="50px" height="35px" src="https://i.ibb.co/GMLxXcg/image.png" />](https://jupyter.org/) -->
+`Amazon EC2` `Google Colab` 
 `PyCharm` `CLion` `IntelliJ IDEA` `WebStorm` `Netbeans` `Visual Studio` `Tizen Studio` `Atmel Studio` `VS Code` `Atom` `Jupyter Notebook`
+<br />
+
+<!-- [<img align="left" alt="Tizen App Development" width="50px" height="35px" src="https://i.ibb.co/FDGfMqR/image.png" />](https://developer.tizen.org/)
+[<img align="left" alt="Atmega32 Microcontroller interfacing" width="50px" height="35px" src="https://i.ibb.co/ZKLWdJH/image.png" />](https://www.microchip.com/wwwproducts/ATmega32) -->
+`Tizen App Development` `Atmega32 Microcontroller interfacing`
 <br />
 
 <!-- [<img align="left" alt="LaTex" width="50px" height="35px" src="https://i.ibb.co/Cn5G0MZ/image.png" />](https://www.latex-project.org/)
