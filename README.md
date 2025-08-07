@@ -1,6 +1,6 @@
 ### Hi there, I'm Subangkar Karmaker Shanto 👋
 
-**I am a CS student at Purdue University. Earlier, I received my CS graduation from Bangladesh University of Engineering & Technology (BUET)**
+**I am a CS graduate student at Purdue University. Earlier, I received my CS graduation from Bangladesh University of Engineering & Technology (BUET)**
 - ⚡  I love coding, designing information system
 - ⚡  I also like to work in Backend Development
 - ⚡  I'm interested in research topics like Systems and Network Security, Machine Learning, Deep Learning, Ubiquitous Computing
